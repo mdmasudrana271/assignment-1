@@ -230,6 +230,7 @@ body{
     width: 110px;
     padding: 12px;
     border-radius: 22px;
+    border: 0px solid;
 }
 
 .updates{
