@@ -202,6 +202,33 @@ body{
     height: 80vh;
 }
 
+
+.extra-section-2{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.extra-section-card{
+    width: 30%;
+    margin: 20px;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+.extra-sec-img{
+    width: 90%;
+    border-radius: 5px;
+}
+.read-more-btn{
+    background-color: rgb(93, 93, 233);
+    float: left;
+    margin-left: 50px;
+    width: 110px;
+    padding: 12px;
+    border-radius: 22px;
+}
+
 .updates{
     text-align: center;
     margin-top: 20px;
