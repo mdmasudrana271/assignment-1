@@ -201,6 +201,9 @@ body{
     padding: 50px;
     height: 80vh;
 }
+.issues{
+    height: 100vh;
+}
 .issues-heading{
     text-align: center;
     font-size: 30px;
@@ -209,14 +212,13 @@ body{
 .extra-section-2{
     display: flex;
     justify-content: center;
-    
+
 }
 
 .extra-section-card{
     width: 30%;
     margin: 20px;
-    justify-content: space-evenly;
-    text-align: center;
+    
 }
 
 .extra-sec-img{
@@ -226,7 +228,6 @@ body{
 .read-more-btn{
     background-color: rgb(93, 93, 233);
     float: left;
-    margin-left: 50px;
     width: 110px;
     padding: 12px;
     border-radius: 22px;
