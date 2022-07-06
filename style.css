@@ -43,6 +43,9 @@ body{
     text-decoration: none;
     color: #fff;
 }
+.midle-donate-btn{
+    margin-right: 40px;
+}
 
 .donation-section{
     width: 100%;
