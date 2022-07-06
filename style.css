@@ -257,4 +257,12 @@ body{
 
 /*footer*/
 
-
+.footer-section{
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    padding-top: 40px;
+    font-style: italic;
+    height: 25vh;
+    color: rgb(238, 107, 107);
+    background-color: black;
+}
