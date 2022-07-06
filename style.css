@@ -164,7 +164,7 @@ body{
 .extra-banner{
     display: flex;
     width: 100%;
-    height: 100vh;
+    height: 85vh;
     justify-content: space-evenly;
  }
  .banner-describtion{
@@ -197,22 +197,64 @@ body{
     
  }
 
-/*footer*/
-.footer{
-    font-family: 'Gulzar', serif;
-    background-color: black;
-    height: 25vh;
-    margin-top: 100px;
+ .bottom-section{
+    padding: 50px;
+    height: 70vh;
 }
-.footer-text{
-    color: rgb(252, 113, 88);
+
+.updates{
     text-align: center;
-    font-style: italic;
+    margin-top: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.update-heading{
+    font-size: 60px;
     font-weight: 700;
-    padding-top: 50px;
 }
-.footer-small{
-    color: #fff;
-    font-weight: 300;
+
+.update-paragraph{
+    font: 50px;
+    font-weight: 700;
+    color: gray;
+    margin-top: 5px;
+
+}
+
+.update-form{
+    padding: 50px;
     text-align: center;
+    background-color: rgb(238, 227, 207);
+    height: 80px;
+    width: 50%;
+    margin-left: 22%;
+    margin-top: 60px;
+    border-radius: 5px;
 }
+
+.action{
+    display: inline;
+    
+}
+.input-email{
+    font-size: 20px;
+    border: 0px solid gray;
+    margin-top: 15px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: rgb(214, 203, 203);
+}
+.subscribe-btn{
+    font-size: 20px;
+    border: 0px solid;
+    background-color: rgb(238, 107, 107);
+    border-radius: 3px;
+    margin: 20px 0;
+    padding: 8px;
+    width: 20%;
+}
+
+/*footer*/
+
+
