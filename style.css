@@ -201,7 +201,10 @@ body{
     padding: 50px;
     height: 80vh;
 }
-
+.issues-heading{
+    text-align: center;
+    font-size: 30px;
+}
 
 .extra-section-2{
     display: flex;
